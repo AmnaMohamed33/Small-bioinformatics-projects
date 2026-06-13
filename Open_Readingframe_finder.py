@@ -1,5 +1,5 @@
 #----------PROJECT's STEPS----------------
-#  download a genome from NCBI
+# download a genome from NCBI
 # find ORF on strand and rev.comp
 # arrange them from longest to shortest
 # calculate the mass of each protein
